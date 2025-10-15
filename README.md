@@ -1,12 +1,13 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/sinas12/WordPress-Land/refs/heads/main/assets/src/img/wordpress-land.png" alt="Project Banner" width="800">
 </p>
+
 # WordPress-Land
 This is a **simple and customizable WordPress Landing Page Theme Template** built using **Tailwind CSS** and **Flowbite**.
 
 The goal of this open-source project is to provide a **starter foundation** for developers and freelancers who want to quickly begin designing **WordPress themes or landing pages for clients** without reinventing the wheel or starting from scratch every time.
 
----
+
 
 ## ✨ Features
 
@@ -16,7 +17,7 @@ The goal of this open-source project is to provide a **starter foundation** for 
 - 📱 **Fully responsive and lightweight**  
 - 🧑‍💻 **Used in real-world client projects** — I personally use this as my base for creating professional themes
 
----
+
 
 ## 🧩 Use Case
 
@@ -28,7 +29,7 @@ Whether you're:
 
 …this template gives you a **solid head start**.
 
----
+
 
 ## 🎥 Video Tutorial (Beginner Friendly!)
 
@@ -41,7 +42,7 @@ If you're new to WordPress or Tailwind, I’ve created a **full video tutorial**
 👉 Watch it on my YouTube channel:  
 **https://www.youtube.com/@sinamaghs**
 
----
+
 
 ## 🤝 Usage & Credits
 
