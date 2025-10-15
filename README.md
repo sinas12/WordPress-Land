@@ -43,6 +43,17 @@ If you're new to WordPress or Tailwind, I’ve created a **full video tutorial**
 **https://www.youtube.com/@sinamaghs**
 
 
+## ⚙️ Tailwind & Flowbite Setup
+
+This project currently loads **Tailwind CSS** and **Flowbite** via **CDN links** inside `header.php` ; this keeps things simple for beginners.
+
+However, for **best practices and production use**, you should **install both libraries locally instead of relying on CDN**.
+
+👉 Please refer to the official documentation of each:
+
+- Flowbite Docs: https://flowbite.com/docs/getting-started/quickstart/  
+- Tailwind CSS Docs: https://tailwindcss.com/docs/installation/tailwind-cli
+
 
 ## 🤝 Usage & Credits
 
