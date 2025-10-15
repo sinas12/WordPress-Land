@@ -11,11 +11,11 @@ The goal of this open-source project is to provide a **starter foundation** for 
 
 ## ✨ Features
 
-- 🚀 **Fast development setup** — Jump straight into styling and layout without boilerplate hassle  
-- 🎨 **Tailwind CSS & Flowbite UI components** — Minimal, modern, and extendable  
-- 🧱 **Clean and beginner-friendly code structure** — Easy to edit and customize  
+- 🚀 **Fast development setup** | Jump straight into styling and layout without boilerplate hassle  
+- 🎨 **Tailwind CSS & Flowbite UI components** | Minimal, modern, and extendable  
+- 🧱 **Clean and beginner-friendly code structure** | Easy to edit and customize  
 - 📱 **Fully responsive and lightweight**  
-- 🧑‍💻 **Used in real-world client projects** — I personally use this as my base for creating professional themes
+- 🧑‍💻 **Used in real-world client projects** | I personally use this as my base for creating professional themes
 
 
 
